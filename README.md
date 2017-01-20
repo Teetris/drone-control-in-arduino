@@ -1,0 +1,2 @@
+# drone-control-in-arduino
+Hello, my name is Carlos and I would like to develop a program that will control the flight of a drone, this project is my scientific initiation in college and I started controlling with an arduino. The idea is quite simple, replace the radio control by a pre-programmed arduino to make a robotic drone to perform some simple tasks like walking 2 meters ahead and climbing, at the end the project will be totally public and would like to build a simpler library Future in the project.
